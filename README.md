@@ -39,17 +39,17 @@ The bottom and side edges align nicely with the keycaps. (The top side aligns to
 
 Underside view, showing rubber feet used as standoffs:
 
-![Underside view](images/underside.jpeg)
+![Underside view](images/underside-b.jpeg)
 
 I used some fine-grit sandpaper to frost the inside surface of the plates, for improved RGB diffusion:
 
 ![Much RGB](images/RGBs.jpeg)
 
-The plates have pre-cut spaces for the JST connector (so you don’t have to desolder it) and reset buttons (in case you need them!)
+The plates have pre-cut spaces for the JST connector (so you don’t have to desolder it) and reset buttons (in case you need them!) I also currently use metal screws (ordered from Keebio as described above) whereas I formerly used nylon screws. The metal screws are lower profile and allow the rubber feet to keep good contact with the desk, whereas the nylon screws scratched the desk slightly and prevented sturdy contact.
 
 ![The plates have pre-cut spaces for the JST connector and reset buttons](images/jst-connector-hole.jpeg)
 
-These fit into an Amazon Basics 5" GPS Travel Case. The result is slightly flexible, but has proved sturdy enough so far.
+These fit into an Amazon Basics 5" GPS Travel Case. The case is slightly more flexible than I’d like, but the package has proved sturdy enough so far.
 
 ![Carrying Case](images/case.jpeg)
 
