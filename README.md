@@ -28,31 +28,31 @@ I connect it to the PCB with 10mm screws, using little rubber feet as internal s
 
 #### Images
 
-[!Nyquist with WorkLouder Blind Keycaps](images/worklouder-keycaps-front.jpeg)
+![Nyquist with WorkLouder Blind Keycaps](images/worklouder-keycaps-front.jpeg)
 
 *Nyquist with WorkLouder Blind Keycaps*
 
-[!Nyquist with ChocFox CFX Keycaps](images/cfx-keycaps.jpeg)
+![Nyquist with ChocFox CFX Keycaps](images/cfx-keycaps.jpeg)
 
 *Nyquist with ChocFox CFX Keycaps. The white keys have been dyed gray with Rit DyeMore Graphite.*
 
-[!Total thickness](images/thickness.jpeg)
+![Total thickness](images/thickness.jpeg)
 
 *The total thickness is about 2cm.*
 
-[!The bottom and side edges align nicely with the keycaps](images/worklouder-keycaps-angled.jpeg)
+![The bottom and side edges align nicely with the keycaps](images/worklouder-keycaps-angled.jpeg)
 
 *The bottom and side edges align nicely with the keycaps. (The top side aligns to USB-C connectors, to provide some protection.*
 
-[!Underside view](images/underside.jpeg)
+![Underside view](images/underside.jpeg)
 
 *Underside view, showing rubber feet used as standoffs. Later, I used some fine-grit sandpaper to frost the inside surface of the plates, for improved RGB diffusion.*
 
-[!The plates have pre-cut spaces for the JST connector and reset buttons](images/jst-connector-hole.jpeg)
+![The plates have pre-cut spaces for the JST connector and reset buttons](images/jst-connector-hole.jpeg)
 
 *The plates have pre-cut spaces for the JST connector (so you don’t have to desolder it) and reset buttons (in case you need them!)*
 
-[!Carrying Case](images/case.jpeg)
+![Carrying Case](images/case.jpeg)
 
 *These fit into an Amazon Basics 5" GPS Travel Case. The result is slightly flexible, but has proved sturdy enough so far.*
 
@@ -103,12 +103,13 @@ Here’s [my current Nyquist keymap](https://github.com/arrowtype/qmk_firmware/b
 --------------------------------------------------------   --------------------------------------------------------
 ```
 
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| Esc/Adj | 1      | 2      | 3      | 4      | 5      | 6      | 7      | 8      | 9      | 0      | Bksp    |
-| Tab     | Q      | W      | E      | R      | T      | Y      | U      | I      | O      | P      | \       |
-| `       | A      | S      | D      | F      | G      | H      | J      | K      | L      | ;      | "       |
-| Shift   | Z      | X      | C      | V      | B      | N      | M      | ,      | .      | Up     | Ent/Shf |
-| Hyper   |  Ctrl  |   Alt  |   GUI  | Lower  | Space  | Space  | Raise  | /      | Left   | Down   | Right   |
+|    a    |  b   |  c  |  d  |   e   |   f   |   g   |   a   | b |  c   |  d   |    e    |
+|:-------:|:----:|:---:|:---:|:-----:|:-----:|:-----:|:-----:|:-:|:----:|:----:|:-------:|
+| Esc/Adj |  1   |  2  |  3  |   4   |   5   |   6   |   7   | 8 |  9   |  0   |  Bksp   |
+|   Tab   |  Q   |  W  |  E  |   R   |   T   |   Y   |   U   | I |  O   |  P   |    \    |
+|  Grave  |  A   |  S  |  D  |   F   |   G   |   H   |   J   | K |  L   |  ;   |    "    |
+|  Shift  |  Z   |  X  |  C  |   V   |   B   |   N   |   M   | , |  .   |  Up  | Ent/Shf |
+|  Hyper  | Ctrl | Alt | GUI | Lower | Space | Space | Raise | / | Left | Down |  Right  |
 
 It arranges arrow keys in the traditional “inverted T” for easy use in design apps, etc, and moves the **/** key to a thumb position, to allow for this. It feels odd at first, but not as odd as single-row arrow keys, to me.
 
