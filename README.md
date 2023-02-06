@@ -19,39 +19,39 @@ I connect it to the PCB with 10mm screws, using little rubber feet as internal s
 - The keyboard and its cables fit fairly nicely into this [Amazon Basics 5" GPS Travel Case](https://www.amazon.com/gp/product/B004I5BUSO) (it’s a bit snug and not completely rigid, but has worked well for me in a few road/airplane trips)
 - For keycaps, I have tried both the [WorkLouder Blind](https://worklouder.cc/shop/wrk-blind/) and the [ChocFox CFX](https://chosfox.com/products/chocfox-cfx-choc-keycaps). I prefer the CFX ergonomically, because their slightly wider gaps make it easier to feel where my fingers are. However, the WorkLouder keycaps are more aesthetically pleasing to me, and they do have better homing key markers.
 
-## Images of Single Plate Design
+### Images
+
+Nyquist with WorkLouder Blind Keycaps:
 
 ![Nyquist with WorkLouder Blind Keycaps](images/worklouder-keycaps-front.jpeg)
 
-*Nyquist with WorkLouder Blind Keycaps*
+Nyquist with ChocFox CFX Keycaps. The white keys have been dyed gray with Rit DyeMore Graphite:
 
 ![Nyquist with ChocFox CFX Keycaps](images/cfx-keycaps.jpeg)
 
-*Nyquist with ChocFox CFX Keycaps. The white keys have been dyed gray with Rit DyeMore Graphite.*
+The total thickness is pleasantly low profile, at about 2cm. I don’t need a wrist rest for this, even though I do for a high-profile keyboard.
 
 ![Total thickness](images/thickness.jpeg)
 
-*The total thickness is about 2cm.*
+The bottom and side edges align nicely with the keycaps. (The top side aligns to USB-C connectors, to provide some protection.)
 
 ![The bottom and side edges align nicely with the keycaps](images/worklouder-keycaps-angled.jpeg)
 
-*The bottom and side edges align nicely with the keycaps. (The top side aligns to USB-C connectors, to provide some protection.*
+Underside view, showing rubber feet used as standoffs:
 
 ![Underside view](images/underside.jpeg)
 
-*Underside view, showing rubber feet used as standoffs.*
+I used some fine-grit sandpaper to frost the inside surface of the plates, for improved RGB diffusion:
 
 ![Much RGB](images/RGBs.jpeg)
 
-*I used some fine-grit sandpaper to frost the inside surface of the plates, for improved RGB diffusion.*
+The plates have pre-cut spaces for the JST connector (so you don’t have to desolder it) and reset buttons (in case you need them!)
 
 ![The plates have pre-cut spaces for the JST connector and reset buttons](images/jst-connector-hole.jpeg)
 
-*The plates have pre-cut spaces for the JST connector (so you don’t have to desolder it) and reset buttons (in case you need them!)*
+These fit into an Amazon Basics 5" GPS Travel Case. The result is slightly flexible, but has proved sturdy enough so far.
 
 ![Carrying Case](images/case.jpeg)
-
-*These fit into an Amazon Basics 5" GPS Travel Case. The result is slightly flexible, but has proved sturdy enough so far.*
 
 ## Experimental file: Sandwich Case
 
