@@ -51,15 +51,15 @@ These fit into an Amazon Basics 5" GPS Travel Case. The case is slightly more fl
 
 ## Experimental file: Sandwich Case
 
-The file `keebio-nyquist-plates-with-middle-layer-EXPERIMENTAL.svg` is something I have also cut, but haven't yet put to use. I haven’t tested it yet, so it may not work well at all! Then again, I believe it could almost certainly work well without the middle layer.
+The file `keebio-nyquist-plates-with-middle-layer-EXPERIMENTAL.svg` is something I have also cut, but haven't yet assembled. Because I haven’t tested it yet, it may not work well at all! Then again, I believe it could almost certainly work well without the middle layer.
 
-It would act as a slightly more traditional acrylic case, including a top plate and sealed edges.
+It would act as a slightly more traditional acrylic case, including a top plate and (semi) sealed edges.
 
-The idea is to glue the middle layer to the bottom plate, using acetone or superglue. I then would superglue 3mm standoffs into the holes of the top plate, to be able to screw on the bottom casing.
+The idea is to glue the middle layer to the bottom plate, using acetone, superglue, or Weld-On acrylic glue. I then would superglue 3mm standoffs into the holes of the top plate, to be able to screw on the bottom casing.
 
 Notes:
 
-- I have read that to use an acrylic top plate with choc switches requires soldering (rather than millmax hotswap sockets).
+- I have read that to use an acrylic top plate with choc switches requires soldering (rather than millmax hotswap sockets). I believe that MX switches could work with millmax sockets. If I do make this, I will most likely do a high-profile build.
 - This case design would have a slightly wider footprint than the simpler plate design, so it wouldn’t fit in the same carrying case.
 
 If anyone happens to try this before I do, please let me know how it goes!
