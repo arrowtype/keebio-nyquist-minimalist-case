@@ -21,21 +21,17 @@ I connect it to the PCB with 10mm screws, using little rubber feet as internal s
 
 ### Images
 
-Nyquist with WorkLouder Blind Keycaps:
+The bottom and side edges are designed to align perfectly with WorkLouder Blind keycaps. The top side aligns to USB-C connectors, to provide some protection.
 
-![Nyquist with WorkLouder Blind Keycaps](images/worklouder-keycaps-front.jpeg)
+![The bottom and side edges align nicely with the keycaps](images/worklouder-keycaps-angled.jpeg)
 
-Nyquist with ChocFox CFX Keycaps. The white keys have been dyed gray with Rit DyeMore Graphite:
+Nyquist with ChocFox CFX Keycaps. I don’t like the look of these quite as much, but they are easier to touch type on. The white keys have been dyed gray with Rit DyeMore Graphite:
 
-![Nyquist with ChocFox CFX Keycaps](images/cfx-keycaps.jpeg)
+![Nyquist with ChocFox CFX Keycaps](images/cfx-keycaps-b.jpeg)
 
 The total thickness is pleasantly low profile, at about 2cm. I don’t need a wrist rest for this, even though I do for a high-profile keyboard.
 
 ![Total thickness](images/thickness.jpeg)
-
-The bottom and side edges align nicely with the keycaps. (The top side aligns to USB-C connectors, to provide some protection.)
-
-![The bottom and side edges align nicely with the keycaps](images/worklouder-keycaps-angled.jpeg)
 
 Underside view, showing rubber feet used as standoffs:
 
