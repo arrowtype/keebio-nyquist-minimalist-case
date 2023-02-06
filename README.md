@@ -23,9 +23,9 @@ I connect it to the PCB with 10mm screws, using little rubber feet as internal s
 
 The bottom and side edges are designed to align perfectly with WorkLouder Blind keycaps. The top side aligns to USB-C connectors, to provide some protection.
 
-![The bottom and side edges align nicely with the keycaps](images/worklouder-keycaps-angled.jpeg)
+![The bottom and side edges align nicely with the keycaps](images/worklouder-keycaps-angled-b.jpeg)
 
-Nyquist with ChocFox CFX Keycaps. I don’t like the look of these quite as much, but they are easier to touch type on. The white keys have been dyed gray with Rit DyeMore Graphite:
+I am currently using ChocFox CFX Keycaps. I don’t like the look of these quite as much, but they are easier to touch type on. The white keys have been dyed gray with Rit DyeMore Graphite:
 
 ![Nyquist with ChocFox CFX Keycaps](images/cfx-keycaps-b.jpeg)
 
